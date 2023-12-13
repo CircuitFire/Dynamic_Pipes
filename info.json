@@ -1,0 +1,13 @@
+{
+  "name": "Dynamic_Pipes",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "Dynamic Pipes",
+  "author": "CircuitFire",
+  "description": "automatically adds multidirectional underground variants to pipes",
+  "dependencies": [
+    "base",
+    "? nullius",
+    "? space-exploration"
+  ]
+}
